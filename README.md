@@ -4,7 +4,7 @@
 
   
 
-> O projeto está separado em três classes principais, Administrador,Instrutor e Recepcionista
+> O projeto está separado em três classes principais, Administrador,Instrutor e Recepcionista, nesse projeto  do git por segurança, está sem os controllers.
 
   
 
